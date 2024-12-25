@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Baekjoon\BaaaaaaaarkingDog\Array\10808.cpp" />
+    <ClCompile Include="Baekjoon\BaaaaaaaarkingDog\Array\2577.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
