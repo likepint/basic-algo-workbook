@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Baekjoon\BaaaaaaaarkingDog\Array\2577.cpp">
+    <ClCompile Include="Baekjoon\BaaaaaaaarkingDog\Array\1475.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
