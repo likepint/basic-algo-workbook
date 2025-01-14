@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Baekjoon\BaaaaaaaarkingDog\LinkedList\1406_stack.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BaaaaaaaarkingDog\LinkedList\1406.cpp">
+    <ClCompile Include="Baekjoon\BaaaaaaaarkingDog\Breadth-First-Search\7576.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
