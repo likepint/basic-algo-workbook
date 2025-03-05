@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Baekjoon\BaaaaaaaarkingDog\Breadth-First-Search\7576.cpp" />
+    <ClCompile Include="388352.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
