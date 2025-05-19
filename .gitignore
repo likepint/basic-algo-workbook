@@ -4,6 +4,9 @@
 x64/
 basic-algo-workbook/x64/
 
+*.vcxproj
+*.filters
+*.user
 *.xcodeproj
 *.xcworkspace
 *.suo
