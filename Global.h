@@ -5,7 +5,14 @@ using namespace std;
 
 #define endl '\n'
 
-inline void Print(const vector<int>& InList)
+template<typename T>
+void Print(const T& InNumber)
+{
+    cout << InNumber << endl;
+}
+
+template<typename T>
+void Print(const vector<T>& InList)
 {
     for (const auto& list : InList)
         cout << list << " ";
